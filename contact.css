@@ -1,0 +1,22 @@
+body {
+  background: #ffffff;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+.nav-item {
+  float: right;
+}
+
+.card {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.navbarbrand {
+  text-align: center;
+  margin: 0 auto;
+}

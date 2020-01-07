@@ -1,0 +1,17 @@
+body {
+  background: #ffffff;
+  margin: solid;
+}
+
+title {
+  text-align: right;
+}
+
+h1 {
+  text-align: center;
+}
+
+.navbarbrand {
+  text-align: center;
+  margin: 0 auto;
+}

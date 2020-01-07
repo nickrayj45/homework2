@@ -1,0 +1,32 @@
+body {
+  background-color: white;
+}
+
+nav {
+  font-family: font-family: 'Georgia', Times, 'Times New Roman', serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+.card {
+  margin: 0 auto;
+  float: none;
+  margin-bottom: 10px;
+}
+
+.container {
+  margin: 0 auto;
+  float: none;
+  margin-bottom: 10px;
+}
+
+.text {
+  float: right;
+}
+
+.navbarbrand {
+  text-align: center;
+  margin: 0 auto;
+}
