@@ -1,9 +1,9 @@
 body {
-  background-color: white;
+  background-color: #ffffff;
 }
 
 nav {
-  font-family: font-family: 'Georgia', Times, 'Times New Roman', serif;
+  font-family: "Georgia", Times, "Times New Roman", serif;
 }
 
 h1 {
@@ -22,11 +22,20 @@ h1 {
   margin-bottom: 10px;
 }
 
+.card-body {
+  margin: 0 auto;
+  text-align: center;
+}
+
 .text {
-  float: right;
+  float: left;
 }
 
 .navbarbrand {
   text-align: center;
   margin: 0 auto;
+}
+
+p {
+  float: right;
 }
